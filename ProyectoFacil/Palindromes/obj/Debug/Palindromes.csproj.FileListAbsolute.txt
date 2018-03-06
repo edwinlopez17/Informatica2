@@ -1,0 +1,7 @@
+C:\Users\Edwin\Desktop\Progra2017\ProyectoFacil\Palindromes\obj\Debug\Palindromes.csproj.CoreCompileInputs.cache
+C:\Users\Edwin\Desktop\Progra2017\ProyectoFacil\Palindromes\bin\Debug\Palindromes.exe.config
+C:\Users\Edwin\Desktop\Progra2017\ProyectoFacil\Palindromes\bin\Debug\Palindromes.exe
+C:\Users\Edwin\Desktop\Progra2017\ProyectoFacil\Palindromes\bin\Debug\Palindromes.pdb
+C:\Users\Edwin\Desktop\Progra2017\ProyectoFacil\Palindromes\obj\Debug\Palindromes.exe
+C:\Users\Edwin\Desktop\Progra2017\ProyectoFacil\Palindromes\obj\Debug\Palindromes.pdb
+C:\Users\Edwin\Desktop\Progra2017\ProyectoFacil\Palindromes\obj\Debug\Palindromes.csprojResolveAssemblyReference.cache

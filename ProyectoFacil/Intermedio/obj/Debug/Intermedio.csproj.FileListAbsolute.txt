@@ -1,0 +1,7 @@
+C:\Users\Edwin\Desktop\Progra2017\ProyectoFacil\Intermedio\bin\Debug\Intermedio.exe.config
+C:\Users\Edwin\Desktop\Progra2017\ProyectoFacil\Intermedio\bin\Debug\Intermedio.exe
+C:\Users\Edwin\Desktop\Progra2017\ProyectoFacil\Intermedio\bin\Debug\Intermedio.pdb
+C:\Users\Edwin\Desktop\Progra2017\ProyectoFacil\Intermedio\obj\Debug\Intermedio.csproj.CoreCompileInputs.cache
+C:\Users\Edwin\Desktop\Progra2017\ProyectoFacil\Intermedio\obj\Debug\Intermedio.exe
+C:\Users\Edwin\Desktop\Progra2017\ProyectoFacil\Intermedio\obj\Debug\Intermedio.pdb
+C:\Users\Edwin\Desktop\Progra2017\ProyectoFacil\Intermedio\obj\Debug\Intermedio.csprojResolveAssemblyReference.cache

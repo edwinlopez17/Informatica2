@@ -1,0 +1,6 @@
+C:\Users\Edwin\Desktop\Progra2017\ProyectoFacil\Anagramas\bin\Debug\Anagramas.exe.config
+C:\Users\Edwin\Desktop\Progra2017\ProyectoFacil\Anagramas\bin\Debug\Anagramas.exe
+C:\Users\Edwin\Desktop\Progra2017\ProyectoFacil\Anagramas\bin\Debug\Anagramas.pdb
+C:\Users\Edwin\Desktop\Progra2017\ProyectoFacil\Anagramas\obj\Debug\Anagramas.csproj.CoreCompileInputs.cache
+C:\Users\Edwin\Desktop\Progra2017\ProyectoFacil\Anagramas\obj\Debug\Anagramas.exe
+C:\Users\Edwin\Desktop\Progra2017\ProyectoFacil\Anagramas\obj\Debug\Anagramas.pdb

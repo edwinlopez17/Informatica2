@@ -1,0 +1,7 @@
+C:\Users\Edwin\Desktop\Progra2017\ProyectoFacil\ProyectoFacil2\obj\Debug\ProyectoFacil2.csprojResolveAssemblyReference.cache
+C:\Users\Edwin\Desktop\Progra2017\ProyectoFacil\ProyectoFacil2\obj\Debug\ProyectoFacil2.csproj.CoreCompileInputs.cache
+C:\Users\Edwin\Desktop\Progra2017\ProyectoFacil\ProyectoFacil2\bin\Debug\ProyectoFacil2.exe.config
+C:\Users\Edwin\Desktop\Progra2017\ProyectoFacil\ProyectoFacil2\bin\Debug\ProyectoFacil2.exe
+C:\Users\Edwin\Desktop\Progra2017\ProyectoFacil\ProyectoFacil2\bin\Debug\ProyectoFacil2.pdb
+C:\Users\Edwin\Desktop\Progra2017\ProyectoFacil\ProyectoFacil2\obj\Debug\ProyectoFacil2.exe
+C:\Users\Edwin\Desktop\Progra2017\ProyectoFacil\ProyectoFacil2\obj\Debug\ProyectoFacil2.pdb
