@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarea5Reduce", "Tarea5Reduce.csproj", "{1D89AA5E-53E9-4D63-8085-801A2A89DF86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D89AA5E-53E9-4D63-8085-801A2A89DF86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D89AA5E-53E9-4D63-8085-801A2A89DF86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D89AA5E-53E9-4D63-8085-801A2A89DF86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D89AA5E-53E9-4D63-8085-801A2A89DF86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B974885C-89BF-4D4B-A7F7-26A1DFD4B889}
+	EndGlobalSection
+EndGlobal
