@@ -1,0 +1,4 @@
+C:\Users\Edwin\Desktop\Reduce\ReduceTest\obj\Debug\ReduceTest.csprojResolveAssemblyReference.cache
+C:\Users\Edwin\Desktop\Reduce\ReduceTest\obj\Debug\ReduceTest.csproj.CoreCompileInputs.cache
+C:\Users\Edwin\Desktop\ReduceTest\obj\Debug\ReduceTest.csprojResolveAssemblyReference.cache
+C:\Users\Edwin\Desktop\ReduceTest\obj\Debug\ReduceTest.csproj.CoreCompileInputs.cache

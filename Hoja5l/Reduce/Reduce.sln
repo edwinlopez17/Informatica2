@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reduce", "Reduce.csproj", "{5769ACD5-3737-49C0-8465-3A0C6CCB276B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5769ACD5-3737-49C0-8465-3A0C6CCB276B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5769ACD5-3737-49C0-8465-3A0C6CCB276B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5769ACD5-3737-49C0-8465-3A0C6CCB276B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5769ACD5-3737-49C0-8465-3A0C6CCB276B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {201584F0-0011-4ED0-B0CE-1CA81797C8F1}
+	EndGlobalSection
+EndGlobal

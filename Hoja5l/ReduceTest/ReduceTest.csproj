@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1D89AA5E-53E9-4D63-8085-801A2A89DF86}</ProjectGuid>
+    <ProjectGuid>{8C07A1C1-D688-4678-B367-3E32BBE011DD}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Tarea5Reduce</RootNamespace>
-    <AssemblyName>Tarea5Reduce</AssemblyName>
+    <RootNamespace>ReduceTest</RootNamespace>
+    <AssemblyName>ReduceTest</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="ReduceTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
